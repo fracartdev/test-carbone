@@ -1,0 +1,37 @@
+{
+    "id": 42,
+    "date": 1492012745,
+    "company": {
+      "name": "PAM",
+      "address": "Via Fasulla 123",
+      "city": "Pisa",
+      "postalCode": "56021"
+    },
+    "customer": {
+      "name": "INS",
+      "address": "Via Fittizia 123",
+      "city": "Roma",
+      "postalCode": "00100"
+    },
+    "products": [
+      {
+        "name": "product 1",
+        "priceUnit": 0.1,
+        "quantity": 10,
+        "priceTotal": 1
+      },
+      {
+        "name": "product 2",
+        "priceUnit": 0.2,
+        "quantity": 20,
+        "priceTotal": 4
+      },
+      {
+        "name": "product 3",
+        "priceUnit": 0.3,
+        "quantity": 30,
+        "priceTotal": 9
+      }
+    ],
+    "total": 14
+}
